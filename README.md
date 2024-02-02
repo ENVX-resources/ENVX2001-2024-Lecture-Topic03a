@@ -1,9 +1,9 @@
 ## ENVX2001 Applied Statistical Methods
-### Lecture Topic 1a - Welcome 
+### Lecture Topic 3a - $t$-tests 
 
 **Dr. Januar Harianto** | Semester 1, 2024
 
-[HTML]() | [PDF]()
+[HTML](https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic03a/) | [PDF]()
 
 ## License and attribution
 
